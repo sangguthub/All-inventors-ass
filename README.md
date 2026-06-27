@@ -331,7 +331,7 @@ Verify the following functionality.
 
 **Sangappa Y K**
 
-MCA 2026 • Java Full Stack Developer
+MCA 2026 •  Full Stack Developer
 
 ---
 
