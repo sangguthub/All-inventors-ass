@@ -1,3 +1,6 @@
+LIVE LINK:-
+allo-inventory.vercel.app
+
 # Allo Inventory Reservation System
 
 A full-stack inventory reservation system built as part of the **Allo Engineering Take-Home Exercise**. The application simulates an e-commerce checkout flow where inventory is temporarily reserved to prevent overselling during concurrent purchases.
