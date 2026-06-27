@@ -1,5 +1,4 @@
-LIVE LINK:-
-allo-inventory.vercel.app
+
 
 # Allo Inventory Reservation System
 
